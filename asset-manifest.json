@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-OAuth-Google-ImgUpload-App/static/css/main.8c182941.chunk.css",
-    "main.js": "/React-OAuth-Google-ImgUpload-App/static/js/main.9a185d59.chunk.js",
-    "main.js.map": "/React-OAuth-Google-ImgUpload-App/static/js/main.9a185d59.chunk.js.map",
+    "main.js": "/React-OAuth-Google-ImgUpload-App/static/js/main.bf2f7cce.chunk.js",
+    "main.js.map": "/React-OAuth-Google-ImgUpload-App/static/js/main.bf2f7cce.chunk.js.map",
     "runtime-main.js": "/React-OAuth-Google-ImgUpload-App/static/js/runtime-main.91fd66e0.js",
     "runtime-main.js.map": "/React-OAuth-Google-ImgUpload-App/static/js/runtime-main.91fd66e0.js.map",
     "static/css/2.86e65bd8.chunk.css": "/React-OAuth-Google-ImgUpload-App/static/css/2.86e65bd8.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.86e65bd8.chunk.css",
     "static/js/2.3ececdaa.chunk.js",
     "static/css/main.8c182941.chunk.css",
-    "static/js/main.9a185d59.chunk.js"
+    "static/js/main.bf2f7cce.chunk.js"
   ]
 }
