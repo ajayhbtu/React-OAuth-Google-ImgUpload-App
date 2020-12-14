@@ -41,7 +41,7 @@ function Auth(props) {
     </div>
   ) : (
     <div>
-      <h2>Welcome {name}!</h2>
+      <h2>Welcome Guest!</h2>
       <GoogleLogin
         clientId="159620068686-ijluvm55n3rb6mi7jtjf8j350shu0odk.apps.googleusercontent.com"
         buttonText="Login"
