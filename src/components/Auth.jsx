@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import GoogleLogin, { GoogleLogout } from "react-google-login";
+import Image from "./Image";
 
 function Auth(props) {
   const [name, setName] = useState("Guest");
@@ -38,6 +39,7 @@ function Auth(props) {
         buttonText="Logout"
         onLogoutSuccess={onLogoutSuccess}
       ></GoogleLogout>
+      <Image className="img-container" withPreview={true} />
     </div>
   ) : (
     <div>
