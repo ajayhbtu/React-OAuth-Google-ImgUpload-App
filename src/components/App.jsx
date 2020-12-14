@@ -1,14 +1,12 @@
 import React from "react";
-import Login from "./Login";
-import Logout from "./Logout";
+import Auth from "./Auth";
 import Image from "./Image";
 import "../styles.css";
 
 function App(props) {
   return (
     <div>
-      <Login />
-      <Logout />
+      <Auth />
       <Image className="img-container" withPreview={true} />
     </div>
   );
